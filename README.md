@@ -58,6 +58,8 @@ Similar operation was explored for the fifty question with the number of student
 ## PIVOT TABLE VISUALIZATION
 ![](cleaned3.png)
 
+![](cleaned4.png)
+
 ## CONCLUSION
 It could be deduced that the pivot table is an excel function that should be used for quick and easy manipulation and transformation of data set.
 
