@@ -21,4 +21,13 @@ we were given a medical data set to analyze using pivot table and the question i
   2. Pivot table Field
   3. Filter and sorting
   4. Conditional formatting
-     ## SOLUTION TO THE TASK
+     
+ ## SOLUTION TO THE TASK
+ The data provided contain numerous empty cells and the average of the numeric column was calculated and used to fill the empty while assumption were made for the categorized data.
+For the First question
+The gender column was draggged into the row field since it is quantitative data while Age, BMI, Temperature,Heart Rate and cholestrol dragged into the value field because it is a quantitave data in the pivot table field . The **AVERAGE FUNCTION**was used for the required column since we were asked to calculate the average.The answer was sorted for both male and female.
+
+For The Second question
+Since the average weight and height was is required the **AVERAGE FUNCTION** was used with Gender in the row and weight and height in the value field. The answer was formatted to 2 decimal places.
+
+ 
