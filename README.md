@@ -8,3 +8,11 @@ pivot table is of the powerful function in excel that is used to analyze, summar
 -  Calculated Fields
 -  Grouping Categorization
 ## TASK
+we were given a medical data set to analyze using pivot table and the question includes the following.
+- Average value of the following Male and Females (Age,BMI,Temperature,Heart rate and Cholestrol)
+- Average Height and Weight for both Genders (in 2 decimal Places)
+- Number of students across different blood groups
+- Number of students who smokes and those who does not
+- Number of students who has Diabetes and those who does not
+
+  ## SKILLS CONCEPT ADOPTED
