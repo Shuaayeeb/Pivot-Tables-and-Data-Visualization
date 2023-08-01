@@ -18,7 +18,7 @@ we were given a medical data set to analyze using pivot table and the question i
 - Number of students who smokes and those who does not
 - Number of students who has Diabetes and those who does not
 
- ## SKILLS CONCEPT ADOPTED
+## SKILLS CONCEPT ADOPTED
  
   The skills use in answering the question include
   1. Basic excel function such as Average function, Sum Function, Count Function
@@ -43,9 +43,20 @@ Both questions are similiar to the third question because it involves knowing th
 The smoking header was clicked and it alligned to the row field while number of student (student ID) alligned to the value field, the count function summarized the values and the answer was sorted from descending to ascending order.
 Similar operation was explored for the fifty question with the number of students without diabetes provided and those with diabetes also known.the answer was sorted. 
 
-##RAW DATA
-![]()
+## RAW DATA
+![](raw.png)
 
+
+## CLEAN DATA
+![](Cleaned.png)
+
+## PIVOT TABLES
+![](cleaned1.png)
+
+![](cleaned2.png)
+
+## PIVOT TABLE VISUALIZATION
+![](cleaned3.png)
 
 ## CONCLUSION
 It could be deduced that the pivot table is an excel function that should be used for quick and easy manipulation and transformation of data set.
