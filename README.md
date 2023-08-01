@@ -16,3 +16,9 @@ we were given a medical data set to analyze using pivot table and the question i
 - Number of students who has Diabetes and those who does not
 
   ## SKILLS CONCEPT ADOPTED
+  The skills use in answering the question include
+  1. Basic excel function such as Average function, Sum Function, Count Function\
+  2. Pivot table Field
+  3. Filter and sorting
+  4. Conditional formatting
+     ## SOLUTION TO THE TASK
